@@ -1,0 +1,3 @@
+[submodule "evalbot"]
+	path = evalbot
+	url = https://github.com/perl6/evalbot.git

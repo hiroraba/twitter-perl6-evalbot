@@ -1,0 +1,12 @@
+requires "perl", "5.22.0";
+requires "AnyEvent::HTTP";
+requires "AnyEvent::SlackRTM";
+requires "AnySan";
+requires "AnySan::Receive";
+requires "EV";
+requires "HTTP::Request::Common";
+requires "JSON";
+requires 'BSD::Resource';
+requires 'File::RotateLogs';
+requires 'IO::Socket::SSL';
+requires 'Proclet';
